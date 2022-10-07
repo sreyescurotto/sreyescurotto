@@ -2,7 +2,7 @@
 - 👀 I’m interested in create pieces of art through code.
 - 🌱 I’m currently learning P5, Processing, WEBGL, Dall-e 2, Three.Js.
 - 💞️ I’m looking to collaborate on videogames or crypto Industrie.
-- 📫 @amandladev ...
+- 📫 @amandladev, sreyescurotto@gmail.com
 - :mortar_board: Information Systems 
 - :round_pushpin: Lima, Peru.
 
