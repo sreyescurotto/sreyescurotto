@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Sergio Reyes**. I'm currently working as Front End Developer.
+- 👋 Hi, I’m **Sergio Reyes**. I'm currently working as Front End Developer with React.
 - 👀 I’m interested in create pieces of art through code.
 - 🌱 I’m currently learning P5, Processing, WEBGL, Dall-e 2, Three.Js.
 - 💞️ I’m looking to collaborate on videogames or crypto Industrie.
